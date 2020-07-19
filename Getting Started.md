@@ -54,7 +54,7 @@
 
 4. Select the "**Login**" button located on the bottom left of the screen. 
 
-*You will be prompted to either login to your account of create a new account.*
+   *You will be prompted to either login to your account or create a new account.*
 
 ![step3](https://github.com/petrovica17/MyWebsite/blob/master/step3.png)
 
@@ -62,27 +62,40 @@
 
 
 
-5. *If you already have an account* 
+5. 
+   *If you already have an account:* 
 
-Enter your email address and password in the boxes provided and hit submit. 
+   Enter your email address and password in the boxes provided and hit submit. 
 
-*If you are new to **TennisDirector*** 
+   *If you are new to **TennisDirector**:* 
 
-Select the yellow button at the bottom to register as a new player.
+   Select the yellow button at the bottom to register as a new player.
 
 ![Capture4](https://github.com/petrovica17/MyWebsite/blob/master/Capture4.PNG)
 
 
 
-*If you decide to register as a new player, you will be brought to this screen.* Enter all of your information and hit **Submit**.
-
-![Capture5](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\Capture5.PNG)
 
 
+5.1.   
 
-6. You will not be brought back to this page, where you now have more options. Under **My Facilities** you will see recent locations and a button called **Geographic Search**. To look for a new club, select **Geographic Search**.
+   *If you decide to register as a new player, you will be brought to this screen.* 
+   
+   Enter all of your information and hit **Submit**.
 
-![step4](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\step4.png)
+![Capture5](https://github.com/petrovica17/MyWebsite/blob/master/Capture5.PNG)
+
+
+
+
+
+6. *Under **My Facilities** you will see recent locations and a button called **Geographic Search**.* 
+
+   Select **Geographic Search**, to look for a new club.
+
+![step4](https://github.com/petrovica17/MyWebsite/blob/master/step4.png)
+
+
 
 
 
