@@ -20,7 +20,7 @@
 
 
 
-<img src="https://github.com/petrovica17/MyWebsite/blob/master/Computer-Screen-PNG-Download-Image.png" alt="Computer-Screen-PNG-Download-Image" width="20" /> <img src="https://github.com/petrovica17/MyWebsite/blob/master/iconfinder_phone_476326.png" alt="iconfinder_phone_476326" style="zoom:55%;" />
+<img src="https://github.com/petrovica17/MyWebsite/blob/master/Computer-Screen-PNG-Download-Image.png" alt="Computer-Screen-PNG-Download-Image" width="200" /> <img src="https://github.com/petrovica17/MyWebsite/blob/master/iconfinder_phone_476326.png" alt="iconfinder_phone_476326" style="zoom:55%;" />
 
 - All you need is a computer or a smartphone with internet access!
 
