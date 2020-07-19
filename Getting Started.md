@@ -43,9 +43,10 @@
 
 
 *You will be redirected to this page.* 
+
 3. Select the "**I AM A TENNIS PLAYER**" button.
 
-![step2](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\step2.png)
+![step2](https://github.com/petrovica17/MyWebsite/blob/master/step2.png)
 
 
 
