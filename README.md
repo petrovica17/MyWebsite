@@ -19,7 +19,7 @@
 ### What You Will Need:
 
 
-
+![Step1](/images/step1.png)
 <img src="https://github.com/petrovica17/MyWebsite/blob/master/Computer-Screen-PNG-Download-Image.png" alt="Computer-Screen-PNG-Download-Image" width="300" /> <img src="https://github.com/petrovica17/MyWebsite/blob/master/iconfinder_phone_476326.png" alt="iconfinder_phone_476326" width="300" />
 
 - All you need is a computer or a smartphone with internet access!
