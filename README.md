@@ -18,9 +18,6 @@
 
 ### What You Will Need:
 
-![Computer Screen](/images/Computer-Screen-PNG-Download-Image.png){: width=50% }
-<img src="https://github.com/petrovica17/MyWebsite/blob/master/Computer-Screen-PNG-Download-Image.png" alt="Computer-Screen-PNG-Download-Image" width="300" /> <img src="https://github.com/petrovica17/MyWebsite/blob/master/iconfinder_phone_476326.png" alt="iconfinder_phone_476326" width="300" />
-
 - All you need is a computer or a smartphone with internet access!
 
 - Head over to [Tennis Director](https://tennisdirector.com/) to book your court.
