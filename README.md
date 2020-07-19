@@ -55,7 +55,7 @@
 
    *You will be prompted to either login to your account or create a new account.*
 
-![step3](/images/step3png)
+![step3](/images/step3.png)
 
 
 
