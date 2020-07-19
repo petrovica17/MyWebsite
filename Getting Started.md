@@ -38,7 +38,7 @@
 
 2. On the home page, click the "**RESERVATIONS/LOG IN**" button.
 
-![step1](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\step1.png)
+![step1](https://github.com/petrovica17/MyWebsite/blob/master/step1.png)
 
 
 
