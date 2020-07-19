@@ -131,7 +131,7 @@
 
 10. Type the name of the player that will be joining you. 
 
-   Once you type in their name and press **Add players**; 
+   *Once you type in their name,* press **Add players**; 
    
    *another box will appear below in case you want to add more players.*
    
@@ -143,13 +143,17 @@
 
 
 
-11. A new page will pop up with your reservation information. You have *60 seconds* to confirm that the information is correct. Press **Please confirm your reservation** when you are ready to confirm.
+11. *You have *60 seconds* to confirm that the information is correct.*
 
-![step8](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\step8.png)
+   Press **Please confirm your reservation** when you are ready to confirm.
+
+![step8](https://github.com/petrovica17/MyWebsite/blob/master/step8.png)
 
 
 
-12. You are done! A message confirming your reservation should pop up and you will receive an email regarding your reservation. 
+
+
+12. *You are done! A message confirming your reservation should pop up and you will receive an email regarding your reservation. *
 
 
 
@@ -173,6 +177,8 @@
 
 - *Yes, you may definitely call the clubs to reserve a court. Their phone numbers are listed next to their names after doing the Geographical Search*.
 
+
+### Licensing:
 
 
 
