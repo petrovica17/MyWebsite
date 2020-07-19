@@ -18,8 +18,7 @@
 
 ### What You Will Need:
 
-
-![Step1](/images/step1.png)
+![Computer Screen](/images/Computer
 <img src="https://github.com/petrovica17/MyWebsite/blob/master/Computer-Screen-PNG-Download-Image.png" alt="Computer-Screen-PNG-Download-Image" width="300" /> <img src="https://github.com/petrovica17/MyWebsite/blob/master/iconfinder_phone_476326.png" alt="iconfinder_phone_476326" width="300" />
 
 - All you need is a computer or a smartphone with internet access!
@@ -38,7 +37,7 @@
 
 2. On the home page, click the "**RESERVATIONS/LOG IN**" button.
 
-![step1](https://github.com/petrovica17/MyWebsite/blob/master/step1.png)
+![step1](/images/step1.png)
 
 
 
@@ -46,7 +45,7 @@
 
 3. Select the "**I AM A TENNIS PLAYER**" button.
 
-![step2](https://github.com/petrovica17/MyWebsite/blob/master/step2.png)
+![step2](/images/step2.png)
 
 
 
@@ -56,7 +55,7 @@
 
    *You will be prompted to either login to your account or create a new account.*
 
-![step3](https://github.com/petrovica17/MyWebsite/blob/master/step3.png)
+![step3](/images/step3png)
 
 
 
@@ -71,7 +70,7 @@
 
    Select the yellow button at the bottom to register as a new player.
 
-![Capture4](https://github.com/petrovica17/MyWebsite/blob/master/Capture4.PNG)
+![Capture4](/images/Capture4.png)
 
 
 
@@ -83,7 +82,7 @@
    
    Enter all of your information and hit **Submit**.
 
-![Capture5](https://github.com/petrovica17/MyWebsite/blob/master/Capture5.PNG)
+![Capture5](/images/Capture5.png)
 
 
 
@@ -93,7 +92,7 @@
 
    Select **Geographic Search**, to look for a new club.
 
-![step4](https://github.com/petrovica17/MyWebsite/blob/master/step4.png)
+![step4](/images/step4.png)
 
 
 
@@ -105,7 +104,7 @@
    
    Then press **Find facilities**.
 
-![step5](https://github.com/petrovica17/MyWebsite/blob/master/step5.png)
+![step5](/images/step5.png)
 
 
 
@@ -115,7 +114,7 @@
 
    Decide which club you would like to reserve a court at, and press **Reserve**.
 
-![Capture8](https://github.com/petrovica17/MyWebsite/blob/master/Capture8.PNG)
+![Capture8](/images/Capture8.png)
 
 
 
@@ -123,7 +122,7 @@
 
 9. On the calendar select a day, time, and duration that you would like. Then press the red button at the bottom.
 
-![step6](https://github.com/petrovica17/MyWebsite/blob/master/step6.png)
+![step6](/images/step6.png)
 
 
 
@@ -137,7 +136,7 @@
    
       Then, select which court you would like to play on by clicking on the court number in the green boxes.
 
-![step7](https://github.com/petrovica17/MyWebsite/blob/master/step7.png)
+![step7](/images/step7.png)
 
 
 
@@ -147,7 +146,7 @@
 
       Press **Please confirm your reservation** when you are ready to confirm.
 
-![step8](https://github.com/petrovica17/MyWebsite/blob/master/step8.png)
+![step8](/images/step8.png)
 
 
 
