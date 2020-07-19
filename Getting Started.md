@@ -159,6 +159,7 @@
 
 
 
+
 ### FAQ:
 
 ****
@@ -178,7 +179,13 @@
 - *Yes, you may definitely call the clubs to reserve a court. Their phone numbers are listed next to their names after doing the Geographical Search*.
 
 
+
+
+
+
 ### Licensing:
+
+****
 
 
 
