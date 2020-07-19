@@ -18,7 +18,9 @@
 
 ### What You Will Need:
 
-![Computer Screen](/images/Computer-Screen-PNG-Download-Image.png =300x300)
+<div style="width:300px>
+![Computer Screen](/images/Computer-Screen-PNG-Download-Image.png)
+            </div>
 <img src="https://github.com/petrovica17/MyWebsite/blob/master/Computer-Screen-PNG-Download-Image.png" alt="Computer-Screen-PNG-Download-Image" width="300" /> <img src="https://github.com/petrovica17/MyWebsite/blob/master/iconfinder_phone_476326.png" alt="iconfinder_phone_476326" width="300" />
 
 - All you need is a computer or a smartphone with internet access!
