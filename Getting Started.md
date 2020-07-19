@@ -65,7 +65,7 @@
 5. 
    *If you already have an account:* 
 
-   Enter your email address and password in the boxes provided and hit submit. 
+   Enter your email address and password in the boxes provided and hit **Submit.** 
 
    *If you are new to **TennisDirector**:* 
 
@@ -99,27 +99,47 @@
 
 
 
-7. You will be asked to provide your zip code in order to find the closest tennis clubs to you. Type in your zip code in the box provided. Then press **Find facilities**.
+7. *You will be asked to provide your zip code in order to find the closest tennis clubs to you.* 
 
-![step5](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\step5.png)
+   Type in your zip code in the box provided. 
+   
+   Then press **Find facilities**.
 
-
-
-8. A map will be pop up showing you all the locations within 20 miles from your zip code. Below you will see a list of all the tennis clubs on the map. Decide which club you would like to reserve a court at, and press **Reserve**.
-
-![Capture8](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\Capture8.PNG)
+![step5](https://github.com/petrovica17/MyWebsite/blob/master/step5.png)
 
 
 
-9. You will be redirected back to this page with you club selected. On the calendar select a day, time, and duration that you would like. Then press the red button at the bottom.
-
-![step6](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\step6.png)
 
 
+8. *A map will be pop up showing you all the locations within 20 miles from your zip code. Below you will see a list of all the tennis clubs on the map.*
 
-10. On this page, type the name of the player that will be joining you. Once you type in their name and press **Add players**, another box will appear below in case you want to add more players. Then, select which court you would like to play on by clicking on the court number in the green boxes.
+   Decide which club you would like to reserve a court at, and press **Reserve**.
 
-![step7](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\step7.png)
+![Capture8](https://github.com/petrovica17/MyWebsite/blob/master/Capture8.PNG)
+
+
+
+
+
+9. On the calendar select a day, time, and duration that you would like. Then press the red button at the bottom.
+
+![step6](https://github.com/petrovica17/MyWebsite/blob/master/step6.png)
+
+
+
+
+
+10. Type the name of the player that will be joining you. 
+
+   Once you type in their name and press **Add players**; 
+   
+   *another box will appear below in case you want to add more players.*
+   
+   Then, select which court you would like to play on by clicking on the court number in the green boxes.
+
+![step7](https://github.com/petrovica17/MyWebsite/blob/master/step7.png)
+
+
 
 
 
