@@ -131,11 +131,11 @@
 
 10. Type the name of the player that will be joining you. 
 
-   *Once you type in their name,* press **Add players**; 
+      *Once you type in their name,* press **Add players**; 
    
-   *another box will appear below in case you want to add more players.*
+      *another box will appear below in case you want to add more players.*
    
-   Then, select which court you would like to play on by clicking on the court number in the green boxes.
+      Then, select which court you would like to play on by clicking on the court number in the green boxes.
 
 ![step7](https://github.com/petrovica17/MyWebsite/blob/master/step7.png)
 
@@ -145,7 +145,7 @@
 
 11. *You have *60 seconds* to confirm that the information is correct.*
 
-   Press **Please confirm your reservation** when you are ready to confirm.
+      Press **Please confirm your reservation** when you are ready to confirm.
 
 ![step8](https://github.com/petrovica17/MyWebsite/blob/master/step8.png)
 
@@ -153,7 +153,7 @@
 
 
 
-12. *You are done! A message confirming your reservation should pop up and you will receive an email regarding your reservation. *
+12. *You are done! A message confirming your reservation should pop up and you will receive an email regarding your reservation.*
 
 
 
