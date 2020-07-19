@@ -42,7 +42,8 @@
 
 
 
-3. You will be redirected to this page. Select the "**I AM A TENNIS PLAYER**" button.
+*You will be redirected to this page.* 
+3. Select the "**I AM A TENNIS PLAYER**" button.
 
 ![step2](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\step2.png)
 
