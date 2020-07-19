@@ -42,7 +42,7 @@
 
 
 
-*You will be redirected to this page.* 
+
 
 3. Select the "**I AM A TENNIS PLAYER**" button.
 
@@ -50,15 +50,27 @@
 
 
 
-4. A new page with a calendar and menu bars on the top and left side of the page will appear. Select the "**Login**" button located on the bottom left of the screen. You will be prompted to either login to your account of create a new account.
-
-![step3](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\step3.png)
 
 
+4. Select the "**Login**" button located on the bottom left of the screen. 
 
-5. If you already have an account, please enter your email address and password in the boxes provided and hit submit. If you are new to **TennisDirector**, then select the yellow button at the bottom to register as a new player.
+*You will be prompted to either login to your account of create a new account.*
 
-![Capture4](C:\Users\aleks\OneDrive\Documents\University\Technical Writing\P2 Project images\Capture4.PNG)
+![step3](https://github.com/petrovica17/MyWebsite/blob/master/step3.png)
+
+
+
+
+
+5. *If you already have an account* 
+
+Enter your email address and password in the boxes provided and hit submit. 
+
+*If you are new to **TennisDirector*** 
+
+Select the yellow button at the bottom to register as a new player.
+
+![Capture4](https://github.com/petrovica17/MyWebsite/blob/master/Capture4.PNG)
 
 
 
