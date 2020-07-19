@@ -70,7 +70,7 @@
 
    Select the yellow button at the bottom to register as a new player.
 
-![Capture4](/images/Capture4.png)
+![Capture4](/images/Capture4.PNG)
 
 
 
@@ -82,7 +82,7 @@
    
    Enter all of your information and hit **Submit**.
 
-![Capture5](/images/Capture5.png)
+![Capture5](/images/Capture5.PNG)
 
 
 
@@ -114,7 +114,7 @@
 
    Decide which club you would like to reserve a court at, and press **Reserve**.
 
-![Capture8](/images/Capture8.png)
+![Capture8](/images/Capture8.PNG)
 
 
 
